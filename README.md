@@ -7,7 +7,7 @@ Bir istemi uygulamadan önce anlamayı kendi başına bir iş olarak yapan Claud
 Bu klasörü `~/.claude/skills/understand` altına kopyala:
 
 ```bash
-git clone https://github.com/emirgndgd/understand-skill ~/.claude/skills/understand
+git clone https://github.com/teknikcocuk/understand-skill ~/.claude/skills/understand
 ```
 
 veya klasörü elle aynı yola kopyala.
